@@ -1,5 +1,0 @@
-requests
-dnspython
-colorama
-whois
-instaloader
